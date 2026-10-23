@@ -1,5 +1,8 @@
 # OpenSource Radar / 开源雷达
 
+**🌐 [立即访问开源雷达网站](https://edcv593.github.io/opensource-radar/)** · [自动更新工作流](https://github.com/edcv593/opensource-radar/actions/workflows/radar.yml)
+
+
 自动采集 GitHub 仓库、保存每日 Star 快照、展示周增长榜、每周生成中文开源周刊，发布到 GitHub Pages。
 
 ## 使用
@@ -20,7 +23,7 @@ python scripts/weekly.py
 python scripts/build.py
 python -m http.server 8000 -d dist
 ```
-浏览 `http://localhost:8000`。周刊每周一生成；手动运行 workflow 仅在 UTC 周一生成周刊。
+浏览 `http://localhost:8000`。周刊每周一生成；手动运行 workflow 会立即生成周刊；定时任务每周一生成周刊。
 
 ## 下一阶段
-V2: GitHub Trending 候选源、全量历史库、主题订阅、结构化中文分析、AI 多提供商故障切换和缓存、RSS、编辑审核、自动周刊精选评分。当前 V1 的 AI 只有单端点调用失败后回退原文，不提供跨服务商轮询。
+V2: GitHub Trending 候选源、全量历史库、主题订阅、结构化中文分析、AI 多提供商故障切换和缓存、RSS、编辑审核、自动周刊精选评分。现已支持通过 GitHub Secret `AI_PROVIDERS_JSON` 配置多个兼容 API 服务商，按顺序尝试并在失败时回退；全部失败则保留原始描述。
