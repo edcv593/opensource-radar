@@ -40,5 +40,11 @@ for i,r in enumerate(items,1):
 dest.parent.mkdir(parents=True,exist_ok=True)
 dest.write_text("\n".join(lines)+"\n",encoding="utf-8")
 cache_path.write_text(json.dumps(cache,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+# Make generated Chinese summaries available to the homepage without extra API calls.
+for r in d["items"]:
+    fingerprint=hashlib.sha256((r.get("description","")+"|"+str(r.get("topics",[]))).encode("utf-8")).hexdigest()[:16]
+    summary=cache.get(r["full_name"]+"@"+fingerprint)
+    if summary:r["description_zh"]=summary
+(DATA/"ranking.json").write_text(json.dumps(d,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("AI new attempts:",new_calls,"cache entries:",len(cache))
 print("Weekly generated:",dest)
