@@ -34,6 +34,14 @@ jobs:
           AI_MODEL: ${{ vars.AI_MODEL }}
         run: |
           if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python scripts/weekly.py; fi
+      - name: Incremental Chinese descriptions (daily budget)
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_PROVIDERS_JSON: ${{ secrets.AI_PROVIDERS_JSON }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          ZH_DAILY_LIMIT: '25'
+        run: python scripts/translate.py
       - run: python scripts/build.py
       - name: Commit generated data
         run: |
