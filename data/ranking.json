@@ -31,7 +31,7 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 368580,
+      "stars": 368596,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -55,7 +55,7 @@
         "static-analysis",
         "touhou"
       ],
-      "updated_at": "2026-10-23T07:43:49Z",
+      "updated_at": "2026-10-23T07:46:45Z",
       "created_at": "2026-04-14T00:51:32Z",
       "week_growth": null,
       "month_growth": null,
@@ -67,7 +67,7 @@
       "full_name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 256330,
+      "stars": 256333,
       "language": "Python",
       "topics": [
         "ai",
@@ -84,13 +84,28 @@
         "nous-research",
         "openai"
       ],
-      "updated_at": "2026-10-23T07:42:39Z",
+      "updated_at": "2026-10-23T07:46:01Z",
       "created_at": "2025-07-22T22:22:28Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
       "trend_score": null,
       "description_zh": "Hermes Agent 是 Nous Research 推出的 AI 代理，可随使用成长。适合开发者及 AI 爱好者，用于构建个性化智能助手，支持多种主流大模型。"
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 220338,
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-10-23T07:46:10Z",
+      "created_at": "2025-04-30T20:08:00Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null,
+      "description_zh": "开源编码代理，用TypeScript构建，可自主完成编程任务。适合开发者提升效率，亮点是开源、灵活，可集成到工作流中。"
     },
     {
       "full_name": "n8n-io/n8n",
@@ -204,7 +219,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Ollama是一款Go语言开发的本地大模型运行工具，支持Kimi、GLM、DeepSeek、Qwen等主流模型，适合开发者快速部署和体验LLM，亮点是简单易用、跨平台。"
     },
     {
       "full_name": "f/prompts.chat",
@@ -267,7 +283,7 @@
         "transformer",
         "vlm"
       ],
-      "updated_at": "2026-10-23T07:24:16Z",
+      "updated_at": "2026-10-23T07:43:59Z",
       "created_at": "2018-10-29T13:56:00Z",
       "week_growth": null,
       "month_growth": null,
@@ -407,7 +423,7 @@
       "full_name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 106308,
+      "stars": 106309,
       "language": "TypeScript",
       "topics": [
         "acpx",
@@ -431,7 +447,7 @@
         "project-management",
         "workflow-automation"
       ],
-      "updated_at": "2026-10-23T07:42:13Z",
+      "updated_at": "2026-10-23T07:45:25Z",
       "created_at": "2026-03-02T15:01:51Z",
       "week_growth": null,
       "month_growth": null,
@@ -443,7 +459,7 @@
       "full_name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 103147,
+      "stars": 103152,
       "language": "TypeScript",
       "topics": [
         "ade",
@@ -467,7 +483,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "updated_at": "2026-10-23T07:43:31Z",
+      "updated_at": "2026-10-23T07:46:55Z",
       "created_at": "2026-03-17T03:28:57Z",
       "week_growth": null,
       "month_growth": null,
@@ -559,7 +575,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "精选MCP服务器资源列表，汇集各类AI模型上下文协议服务器，适合开发者与AI爱好者探索集成，快速发现工具与生态亮点。"
     },
     {
       "full_name": "puppeteer/puppeteer",
@@ -590,7 +607,7 @@
       "full_name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 95193,
+      "stars": 95194,
       "language": "Python",
       "topics": [
         "amd",
@@ -614,12 +631,13 @@
         "tpu",
         "transformer"
       ],
-      "updated_at": "2026-10-23T07:30:53Z",
+      "updated_at": "2026-10-23T07:46:31Z",
       "created_at": "2023-02-09T11:23:20Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "vLLM是面向大语言模型的高吞吐、内存高效推理与服务引擎，适合部署Llama、Qwen、DeepSeek等模型，支持CUDA、AMD、TPU等硬件，亮点是性能卓越、兼容广泛。"
     },
     {
       "full_name": "louislam/uptime-kuma",
@@ -677,13 +695,14 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "开源RAG引擎，融合检索增强生成与Agent能力，为LLM构建优质上下文层。适合开发者及企业构建知识库问答、智能搜索等场景，亮点是Agent化检索与上下文管理。"
     },
     {
       "full_name": "OpenHands/OpenHands",
       "url": "https://github.com/OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
-      "stars": 91606,
+      "stars": 91607,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -696,12 +715,13 @@
         "llm",
         "openai"
       ],
-      "updated_at": "2026-10-23T07:37:17Z",
+      "updated_at": "2026-10-23T07:46:30Z",
       "created_at": "2024-03-13T03:33:31Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "AI驱动的软件开发平台，通过智能代理辅助编程、调试与自动化任务。适合开发者及团队提升效率，亮点是集成多模型LLM支持与命令行工具。"
     },
     {
       "full_name": "storybookjs/storybook",
@@ -764,7 +784,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "实时全球情报仪表盘，AI聚合新闻、地缘政治监控与基础设施追踪，统一态势感知界面。适合情报分析、安全研究及关注全球动态者。亮点：AI驱动、开源、集成MCP。"
     },
     {
       "full_name": "bytedance/deer-flow",
@@ -797,7 +818,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "字节跳动开源的长期任务智能体框架，支持研究、编程与创作。适合需处理分钟至小时级复杂任务的开发者，具备沙箱、记忆、工具调用及多智能体协作等能力。"
     },
     {
       "full_name": "vitejs/vite",
@@ -853,7 +875,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "实时监控与可观测性平台，支持AI告警及多种数据库、容器集成，适合运维及开发团队快速部署。"
     },
     {
       "full_name": "unslothai/unsloth",
@@ -883,12 +906,13 @@
         "ui",
         "unsloth"
       ],
-      "updated_at": "2026-10-23T07:26:45Z",
+      "updated_at": "2026-10-23T07:46:44Z",
       "created_at": "2023-11-29T16:50:09Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "本地UI，用于运行和训练LLM及扩散模型，支持GGUF、MLX、Qwen、DeepSeek、Gemma、FLUX等。适合AI开发者和研究者，亮点是本地部署与微调。"
     },
     {
       "full_name": "career-ops-hq/career-ops",
@@ -918,7 +942,7 @@
         "open-source",
         "resume"
       ],
-      "updated_at": "2026-10-23T07:37:31Z",
+      "updated_at": "2026-10-23T07:46:31Z",
       "created_at": "2026-04-04T18:21:18Z",
       "week_growth": null,
       "month_growth": null,
@@ -959,13 +983,14 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "面向AI工程师的从零实战教程，涵盖智能体、深度学习、生成式AI、LLM、强化学习等主题，含Python/Rust/TypeScript示例。适合想系统学习并动手构建AI项目的开发者，亮点是边学边练、直接交付。"
     },
     {
       "full_name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "stars": 71538,
+      "stars": 71541,
       "language": "Rust",
       "topics": [
         "art",
@@ -976,7 +1001,7 @@
         "photo-editing",
         "rust"
       ],
-      "updated_at": "2026-10-23T07:43:24Z",
+      "updated_at": "2026-10-23T07:45:22Z",
       "created_at": "2026-09-30T13:37:48Z",
       "week_growth": null,
       "month_growth": null,
@@ -1017,13 +1042,14 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "开源AI渗透测试工具，用于发现并修复应用漏洞。适合安全工程师、红队及CTF玩家。亮点：AI驱动自动化安全检测，覆盖漏洞挖掘与修复建议。"
     },
     {
       "full_name": "code-yeongyu/oh-my-openagent",
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-      "stars": 70286,
+      "stars": 70285,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1042,18 +1068,19 @@
         "tui",
         "typescript"
       ],
-      "updated_at": "2026-10-23T07:40:26Z",
+      "updated_at": "2026-10-23T07:44:14Z",
       "created_at": "2025-12-03T01:40:05Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "OmO 是一个 TypeScript 编写的 AI 编排工具，支持通过关键词“mass ulw”快速调用多模型（如 Claude、GPT、Gemini），面向追求高效图形工程控制的开发者，亮点是集成多种 AI 代理与 IDE。"
     },
     {
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 70230,
+      "stars": 70232,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1072,12 +1099,13 @@
         "typescript",
         "video-editor"
       ],
-      "updated_at": "2026-10-23T07:40:58Z",
+      "updated_at": "2026-10-23T07:45:40Z",
       "created_at": "2026-03-10T01:51:06Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Hyperframes：面向AI代理的HTML转视频渲染框架。适合用Claude等工具自动生成动画视频，支持GSAP、Puppeteer与FFmpeg，亮点是让代理直接编写HTML完成视频制作。"
     },
     {
       "full_name": "docling-project/docling",
@@ -1107,7 +1135,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Docling 可将 PDF、DOCX、PPTX 等文档转换为 Markdown、JSON 等格式，为生成式 AI 准备数据。适合开发者、数据工程师，用于文档解析与表格提取。"
     },
     {
       "full_name": "traefik/traefik",
@@ -1168,7 +1197,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "LiteLLM 是一个高性能AI网关，基于Rust核心与Python SDK，支持调用100多种LLM API，兼容OpenAI格式，提供成本追踪、负载均衡、日志与安全防护功能。适合需要统一管理多模型API的开发者与团队。"
     },
     {
       "full_name": "crewAIInc/crewAI",
@@ -1188,7 +1218,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "编排角色扮演式自主AI代理的框架，支持多代理协作处理复杂任务。适合开发者构建智能体应用，亮点是协作智能与无缝任务分工。"
     },
     {
       "full_name": "twentyhq/twenty",
@@ -1256,7 +1287,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "NAS / 自托管",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "开源云平台，为开发者与智能体提供认证、数据库、存储、函数、消息、托管、实时与WAF等后端服务。适合全栈开发者及AI应用构建者，支持自托管，功能全面。"
     },
     {
       "full_name": "firstcontributions/first-contributions",
@@ -1281,7 +1313,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "帮初学者轻松完成首次开源贡献，提供详细步骤教程，适合零基础新手，亮点是友好引导和实操指导。"
     },
     {
       "full_name": "aaif-goose/goose",
@@ -1300,7 +1333,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "开源可扩展AI代理，支持安装、执行、编辑和测试，兼容任意LLM。适合开发者构建自动化工作流，亮点是超越代码建议的实操能力。"
     },
     {
       "full_name": "ClickHouse/ClickHouse",
@@ -1332,7 +1366,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "ClickHouse 是实时分析型数据库管理系统，基于 C++ 构建，支持分布式、云原生与嵌入式部署。适合大数据分析、OLAP 及 AI 场景，提供高性能 SQL 查询，是自托管分析平台的优选。"
     },
     {
       "full_name": "mudler/LocalAI",
@@ -1365,7 +1400,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "LocalAI 是开源 AI 引擎，支持运行 LLM、视觉、语音、图像及视频模型，无需 GPU，兼容多种硬件，适合本地或分布式部署。"
     },
     {
       "full_name": "HKUDS/nanobot",
@@ -1400,7 +1436,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI Agent",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "超轻量开源Python个人AI代理框架，支持WebUI、工具、记忆、MCP及多代理工作流。适合开发者自托管构建聊天机器人与自动化应用，亮点是轻便灵活。"
     },
     {
       "full_name": "bevyengine/bevy",
@@ -1421,7 +1458,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "基于Rust的数据驱动游戏引擎，设计简洁。适合追求高性能、安全性的游戏开发者。亮点是ECS架构与模块化设计。"
     },
     {
       "full_name": "sickn33/agentic-awesome-skills",
@@ -1456,7 +1494,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI Agent",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "本地Agent优先控制平面，支持目录发现、技能选择、栈验证与规划，含2600+技能、CLI、MCP及插件。适合AI开发者与Agent工作流使用者，亮点是本地化、技能库丰富。"
     },
     {
       "full_name": "apache/airflow",
@@ -1491,6 +1530,29 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null,
+      "description_zh": "Apache Airflow 是Python工作流平台，用于编程式编写、调度和监控数据管道，适合数据工程、ETL及MLOps场景。亮点是DAG定义、强大调度与可视化监控。"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 47009,
+      "language": "C++",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "updated_at": "2026-10-23T07:46:27Z",
+      "created_at": "2026-08-03T21:30:25Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -1524,6 +1586,36 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "stars": 45630,
+      "language": "Python",
+      "topics": [
+        "apm",
+        "crash-reporting",
+        "crash-reports",
+        "csp-report",
+        "devops",
+        "django",
+        "error-logging",
+        "error-monitoring",
+        "fair-source",
+        "hacktoberfest",
+        "monitor",
+        "monitoring",
+        "python",
+        "sentry",
+        "tag-production"
+      ],
+      "updated_at": "2026-10-23T07:46:03Z",
+      "created_at": "2010-08-30T22:06:41Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "Docker / 运维",
       "trend_score": null
     },
     {
@@ -1568,7 +1660,7 @@
       "stars": 45391,
       "language": "C++",
       "topics": [],
-      "updated_at": "2026-10-23T07:41:02Z",
+      "updated_at": "2026-10-23T07:45:25Z",
       "created_at": "2014-12-08T18:58:53Z",
       "week_growth": null,
       "month_growth": null,
@@ -1853,6 +1945,36 @@
       "trend_score": null
     },
     {
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 40387,
+      "language": "Python",
+      "topics": [
+        "ab-testing",
+        "ai-analytics",
+        "analytics",
+        "cdp",
+        "data-warehouse",
+        "experiments",
+        "feature-flags",
+        "javascript",
+        "product-analytics",
+        "python",
+        "react",
+        "session-replay",
+        "surveys",
+        "typescript",
+        "web-analytics"
+      ],
+      "updated_at": "2026-10-23T07:46:17Z",
+      "created_at": "2020-01-23T22:46:58Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "数据 / 数据库",
+      "trend_score": null
+    },
+    {
       "full_name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
@@ -1906,6 +2028,40 @@
       "trend_score": null
     },
     {
+      "full_name": "TriliumNext/Trilium",
+      "url": "https://github.com/TriliumNext/Trilium",
+      "description": "Build your personal knowledge base with Trilium Notes",
+      "stars": 38470,
+      "language": "TypeScript",
+      "topics": [
+        "electron",
+        "electron-app",
+        "knowledge-base",
+        "knowledge-graph",
+        "knowledge-management",
+        "knowledge-management-graph",
+        "local-first",
+        "note-managment",
+        "note-taker",
+        "note-taking",
+        "notebook",
+        "notes",
+        "notes-app",
+        "personal-knowledge-base",
+        "personal-wiki",
+        "scriptable",
+        "self-hosted",
+        "self-hosting",
+        "wiki"
+      ],
+      "updated_at": "2026-10-23T07:44:48Z",
+      "created_at": "2017-05-23T00:30:20Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "NAS / 自托管",
+      "trend_score": null
+    },
+    {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
@@ -1944,7 +2100,7 @@
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "stars": 37653,
+      "stars": 37660,
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -1958,12 +2114,13 @@
         "model-provider",
         "openai-compatible"
       ],
-      "updated_at": "2026-10-23T07:43:41Z",
+      "updated_at": "2026-10-23T07:46:31Z",
       "created_at": "2026-09-24T16:17:19Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap."
     },
     {
       "full_name": "sgl-project/sglang",
@@ -2062,6 +2219,29 @@
       "trend_score": null
     },
     {
+      "full_name": "pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "stars": 36903,
+      "language": "Rust",
+      "topics": [
+        "dependency-manager",
+        "install",
+        "javascript",
+        "modules",
+        "node",
+        "nodejs",
+        "npm",
+        "package-manager"
+      ],
+      "updated_at": "2026-10-23T07:46:24Z",
+      "created_at": "2016-01-28T07:40:43Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "langfuse/langfuse",
       "url": "https://github.com/langfuse/langfuse",
       "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -2126,6 +2306,38 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "stars": 35695,
+      "language": "Go",
+      "topics": [
+        "blob-storage",
+        "cloud-drive",
+        "distributed-file-system",
+        "distributed-storage",
+        "distributed-systems",
+        "erasure-coding",
+        "fuse",
+        "hadoop-hdfs",
+        "hdfs",
+        "kubernetes",
+        "object-storage",
+        "posix",
+        "replication",
+        "s3",
+        "s3-storage",
+        "seaweedfs",
+        "tiered-file-system"
+      ],
+      "updated_at": "2026-10-23T07:46:28Z",
+      "created_at": "2014-07-14T16:41:37Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "Docker / 运维",
       "trend_score": null
     },
     {
@@ -2219,10 +2431,10 @@
       "full_name": "Niko1221/Strata",
       "url": "https://github.com/Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "stars": 30785,
+      "stars": 30788,
       "language": "C++",
       "topics": [],
-      "updated_at": "2026-10-23T07:43:43Z",
+      "updated_at": "2026-10-23T07:46:31Z",
       "created_at": "2026-09-24T16:40:20Z",
       "week_growth": null,
       "month_growth": null,
@@ -2372,7 +2584,7 @@
         "scheduler",
         "workflow"
       ],
-      "updated_at": "2026-10-23T07:37:40Z",
+      "updated_at": "2026-10-23T07:44:20Z",
       "created_at": "2019-08-24T13:56:15Z",
       "week_growth": null,
       "month_growth": null,
@@ -2432,7 +2644,7 @@
         "rag",
         "workflow"
       ],
-      "updated_at": "2026-10-23T07:26:17Z",
+      "updated_at": "2026-10-23T07:45:10Z",
       "created_at": "2023-02-23T16:53:25Z",
       "week_growth": null,
       "month_growth": null,
@@ -2640,7 +2852,7 @@
       "full_name": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-      "stars": 29139,
+      "stars": 29138,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -2662,7 +2874,7 @@
         "textbook",
         "tinyml"
       ],
-      "updated_at": "2026-10-23T07:12:15Z",
+      "updated_at": "2026-10-23T07:44:43Z",
       "created_at": "2023-09-06T19:31:06Z",
       "week_growth": null,
       "month_growth": null,
@@ -2764,7 +2976,7 @@
         "terminal",
         "typescript"
       ],
-      "updated_at": "2026-10-23T07:37:00Z",
+      "updated_at": "2026-10-23T07:45:39Z",
       "created_at": "2025-06-26T01:37:46Z",
       "week_growth": null,
       "month_growth": null,
@@ -2896,7 +3108,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
     },
     {
       "full_name": "microsoft/vcpkg",
@@ -2966,7 +3179,7 @@
         "nixos",
         "nixpkgs"
       ],
-      "updated_at": "2026-10-23T07:41:00Z",
+      "updated_at": "2026-10-23T07:46:22Z",
       "created_at": "2012-06-04T02:49:46Z",
       "week_growth": null,
       "month_growth": null,
@@ -2977,7 +3190,7 @@
       "full_name": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "stars": 25522,
+      "stars": 25530,
       "language": "Java",
       "topics": [
         "adb",
@@ -2998,11 +3211,39 @@
         "vibe-coding",
         "xiaomi"
       ],
-      "updated_at": "2026-10-23T07:41:58Z",
+      "updated_at": "2026-10-23T07:46:00Z",
       "created_at": "2026-10-17T08:12:35Z",
       "week_growth": null,
       "month_growth": null,
       "category": "安全 / 隐私",
+      "trend_score": null
+    },
+    {
+      "full_name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 25179,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-agent-tools",
+        "ai-agents",
+        "ai-agents-framework",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "mcps",
+        "n8n-alternative",
+        "no-code-automation",
+        "workflow",
+        "workflow-automation",
+        "workflows"
+      ],
+      "updated_at": "2026-10-23T07:44:10Z",
+      "created_at": "2022-12-03T02:52:46Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "AI Agent",
       "trend_score": null
     },
     {
@@ -3235,6 +3476,31 @@
       "trend_score": null
     },
     {
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "stars": 23096,
+      "language": "Go",
+      "topics": [
+        "dogs-over-cats",
+        "giant-robots",
+        "go",
+        "golang",
+        "grpc",
+        "hacktoberfest",
+        "microservices",
+        "not-nanoservices",
+        "proto",
+        "rpc"
+      ],
+      "updated_at": "2026-10-23T07:46:21Z",
+      "created_at": "2014-12-08T18:59:34Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "super-productivity/super-productivity",
       "url": "https://github.com/super-productivity/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
@@ -3296,7 +3562,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
     },
     {
       "full_name": "openobserve/openobserve",
@@ -3614,10 +3881,10 @@
       "full_name": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "stars": 20356,
+      "stars": 20358,
       "language": "Python",
       "topics": [],
-      "updated_at": "2026-10-23T07:42:55Z",
+      "updated_at": "2026-10-23T07:46:13Z",
       "created_at": "2026-10-16T07:47:23Z",
       "week_growth": null,
       "month_growth": null,
@@ -3639,7 +3906,7 @@
         "open-source",
         "self-hosted"
       ],
-      "updated_at": "2026-10-23T07:27:56Z",
+      "updated_at": "2026-10-23T07:46:50Z",
       "created_at": "2024-10-05T17:01:01Z",
       "week_growth": null,
       "month_growth": null,
@@ -3695,7 +3962,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "Docker / 运维",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
     },
     {
       "full_name": "yetone/magpie",
@@ -3711,7 +3979,7 @@
         "llm",
         "macos"
       ],
-      "updated_at": "2026-10-23T07:41:16Z",
+      "updated_at": "2026-10-23T07:45:38Z",
       "created_at": "2026-09-23T16:22:35Z",
       "week_growth": null,
       "month_growth": null,
@@ -3774,7 +4042,7 @@
       "full_name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "stars": 19341,
+      "stars": 19342,
       "language": "JavaScript",
       "topics": [
         "agent-skill",
@@ -3782,7 +4050,7 @@
         "svg",
         "vizualization"
       ],
-      "updated_at": "2026-10-23T07:42:46Z",
+      "updated_at": "2026-10-23T07:46:30Z",
       "created_at": "2026-10-08T10:12:49Z",
       "week_growth": null,
       "month_growth": null,
@@ -3916,7 +4184,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow"
     },
     {
       "full_name": "ahmedkhaleel2004/gitdiagram",
@@ -4144,7 +4413,7 @@
       "full_name": "storytold/pdfcraft",
       "url": "https://github.com/storytold/pdfcraft",
       "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-      "stars": 17291,
+      "stars": 17293,
       "language": "Rust",
       "topics": [
         "document-processing",
@@ -4156,7 +4425,7 @@
         "pdf-viewer",
         "rust"
       ],
-      "updated_at": "2026-10-23T07:37:45Z",
+      "updated_at": "2026-10-23T07:44:55Z",
       "created_at": "2026-09-30T13:39:37Z",
       "week_growth": null,
       "month_growth": null,
@@ -4304,7 +4573,7 @@
         "sql",
         "vector"
       ],
-      "updated_at": "2026-10-23T07:43:14Z",
+      "updated_at": "2026-10-23T07:46:04Z",
       "created_at": "2017-08-10T12:13:30Z",
       "week_growth": null,
       "month_growth": null,
@@ -4364,7 +4633,7 @@
       "full_name": "storytold/filmcraft",
       "url": "https://github.com/storytold/filmcraft",
       "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-      "stars": 15800,
+      "stars": 15801,
       "language": "Rust",
       "topics": [
         "art",
@@ -4374,7 +4643,7 @@
         "video-editor",
         "video-processing"
       ],
-      "updated_at": "2026-10-23T07:40:44Z",
+      "updated_at": "2026-10-23T07:44:15Z",
       "created_at": "2026-09-30T13:41:20Z",
       "week_growth": null,
       "month_growth": null,
@@ -4435,10 +4704,10 @@
       "full_name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "stars": 15597,
+      "stars": 15598,
       "language": "Rust",
       "topics": [],
-      "updated_at": "2026-10-23T07:37:26Z",
+      "updated_at": "2026-10-23T07:44:42Z",
       "created_at": "2026-10-07T08:34:24Z",
       "week_growth": null,
       "month_growth": null,
@@ -4572,7 +4841,7 @@
       "full_name": "storytold/lightcraft",
       "url": "https://github.com/storytold/lightcraft",
       "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-      "stars": 14368,
+      "stars": 14370,
       "language": "Rust",
       "topics": [
         "art",
@@ -4582,7 +4851,7 @@
         "raw-processing",
         "rust"
       ],
-      "updated_at": "2026-10-23T07:25:07Z",
+      "updated_at": "2026-10-23T07:46:25Z",
       "created_at": "2026-09-30T14:09:27Z",
       "week_growth": null,
       "month_growth": null,
@@ -4820,6 +5089,31 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "libnyanpasu/clash-nyanpasu",
+      "url": "https://github.com/libnyanpasu/clash-nyanpasu",
+      "description": "Clash Nyanpasu～(∠・ω< )⌒☆​",
+      "stars": 13239,
+      "language": "Rust",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "clash-nyanpasu",
+        "clash-rs",
+        "material-you",
+        "mihomo",
+        "react",
+        "rust",
+        "tauri",
+        "tauri-app"
+      ],
+      "updated_at": "2026-10-23T07:45:54Z",
+      "created_at": "2023-11-10T01:25:55Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -5172,7 +5466,7 @@
       "topics": [
         "hacktoberfest"
       ],
-      "updated_at": "2026-10-23T07:43:44Z",
+      "updated_at": "2026-10-23T07:46:33Z",
       "created_at": "2019-07-16T22:21:48Z",
       "week_growth": null,
       "month_growth": null,
@@ -5203,7 +5497,7 @@
         "python",
         "sandbox"
       ],
-      "updated_at": "2026-10-23T07:25:01Z",
+      "updated_at": "2026-10-23T07:46:14Z",
       "created_at": "2026-06-11T12:18:13Z",
       "week_growth": null,
       "month_growth": null,
@@ -5214,7 +5508,7 @@
       "full_name": "huggingface/chat-ui",
       "url": "https://github.com/huggingface/chat-ui",
       "description": "The open source codebase powering HuggingChat",
-      "stars": 10993,
+      "stars": 10994,
       "language": "TypeScript",
       "topics": [
         "chatgpt",
@@ -5227,7 +5521,7 @@
         "tailwindcss",
         "typescript"
       ],
-      "updated_at": "2026-10-23T07:40:10Z",
+      "updated_at": "2026-10-23T07:44:49Z",
       "created_at": "2023-02-17T15:31:50Z",
       "week_growth": null,
       "month_growth": null,
@@ -5263,6 +5557,25 @@
       "week_growth": null,
       "month_growth": null,
       "category": "安全 / 隐私",
+      "trend_score": null
+    },
+    {
+      "full_name": "AutoMQ/automq",
+      "url": "https://github.com/AutoMQ/automq",
+      "description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+      "stars": 10921,
+      "language": "Java",
+      "topics": [
+        "automq",
+        "diskless",
+        "kafka",
+        "serverless"
+      ],
+      "updated_at": "2026-10-23T07:46:12Z",
+      "created_at": "2023-08-17T07:50:13Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -5366,7 +5679,7 @@
       "full_name": "KnifeLemon/Filee",
       "url": "https://github.com/KnifeLemon/Filee",
       "description": "Free, open-source file converter. Convert 255 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-      "stars": 10498,
+      "stars": 10499,
       "language": "C#",
       "topics": [
         "audio-converter",
@@ -5390,7 +5703,7 @@
         "video-converter",
         "windows"
       ],
-      "updated_at": "2026-10-23T07:43:18Z",
+      "updated_at": "2026-10-23T07:44:51Z",
       "created_at": "2026-09-29T20:05:15Z",
       "week_growth": null,
       "month_growth": null,
@@ -5496,7 +5809,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "The only downloader you need. 下载器的集大成者。"
     },
     {
       "full_name": "microsoft/UFO",
@@ -5552,7 +5866,7 @@
       "full_name": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "stars": 9795,
+      "stars": 9796,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -5571,7 +5885,7 @@
         "whisper",
         "windows"
       ],
-      "updated_at": "2026-10-23T07:43:08Z",
+      "updated_at": "2026-10-23T07:44:47Z",
       "created_at": "2025-06-19T00:58:14Z",
       "week_growth": null,
       "month_growth": null,
@@ -5635,7 +5949,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI Agent",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
     },
     {
       "full_name": "xorbitsai/inference",
@@ -5670,6 +5985,29 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "getsentry/self-hosted",
+      "url": "https://github.com/getsentry/self-hosted",
+      "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+      "stars": 9621,
+      "language": "Shell",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "fair-source",
+        "hacktoberfest",
+        "on-premise",
+        "self-hosted",
+        "sentry",
+        "tag-production"
+      ],
+      "updated_at": "2026-10-23T07:46:35Z",
+      "created_at": "2016-02-11T21:19:52Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "NAS / 自托管",
       "trend_score": null
     },
     {
@@ -5770,6 +6108,41 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "xberg-io/xberg",
+      "url": "https://github.com/xberg-io/xberg",
+      "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+      "stars": 9441,
+      "language": "Rust",
+      "topics": [
+        "bun",
+        "csharp",
+        "document-intelligence",
+        "elixir",
+        "ffi",
+        "golang",
+        "java",
+        "metadata-extraction",
+        "node",
+        "pdf-extraction",
+        "pdfium",
+        "php",
+        "python",
+        "rag",
+        "ruby",
+        "rust",
+        "table-extraction",
+        "tesseract",
+        "text-extraction",
+        "wasm"
+      ],
+      "updated_at": "2026-10-23T07:45:36Z",
+      "created_at": "2025-01-31T21:50:02Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -5874,7 +6247,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "NAS / 自托管",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。"
     },
     {
       "full_name": "LearningCircuit/local-deep-research",
@@ -5904,7 +6278,7 @@
         "searxng",
         "self-hosted"
       ],
-      "updated_at": "2026-10-23T07:16:20Z",
+      "updated_at": "2026-10-23T07:44:00Z",
       "created_at": "2025-02-09T15:41:32Z",
       "week_growth": null,
       "month_growth": null,
@@ -6121,6 +6495,22 @@
       "trend_score": null
     },
     {
+      "full_name": "googleapis/googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "stars": 8794,
+      "language": "Starlark",
+      "topics": [
+        "protocol-buffers"
+      ],
+      "updated_at": "2026-10-23T07:46:34Z",
+      "created_at": "2015-03-25T19:47:34Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -6214,7 +6604,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "开发工具",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains."
     },
     {
       "full_name": "KKKKhazix/AIHOT",
@@ -6241,7 +6632,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
       "full_name": "qualcomm/GenieX",
@@ -6503,7 +6895,7 @@
       "full_name": "repowise-dev/repowise",
       "url": "https://github.com/repowise-dev/repowise",
       "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
-      "stars": 7881,
+      "stars": 7882,
       "language": "Python",
       "topics": [
         "ai",
@@ -6522,7 +6914,7 @@
         "static-analysis",
         "technical-debt"
       ],
-      "updated_at": "2026-10-23T07:26:07Z",
+      "updated_at": "2026-10-23T07:47:00Z",
       "created_at": "2026-03-23T09:12:28Z",
       "week_growth": null,
       "month_growth": null,
@@ -6573,7 +6965,7 @@
         "text-to-speech",
         "workflow-automation"
       ],
-      "updated_at": "2026-10-23T06:14:12Z",
+      "updated_at": "2026-10-23T07:45:52Z",
       "created_at": "2026-02-09T13:14:58Z",
       "week_growth": null,
       "month_growth": null,
@@ -6697,7 +7089,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI Agent",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows."
     },
     {
       "full_name": "Tianyu199509/DeskBox",
@@ -6951,6 +7344,69 @@
       "trend_score": null
     },
     {
+      "full_name": "plasmicapp/plasmic",
+      "url": "https://github.com/plasmicapp/plasmic",
+      "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+      "stars": 7124,
+      "language": "TypeScript",
+      "topics": [
+        "builder",
+        "cms",
+        "design",
+        "design-systems",
+        "design-tools",
+        "drag-drop",
+        "frontend",
+        "gatsby",
+        "headless",
+        "headless-cms",
+        "jamstack",
+        "lowcode",
+        "nextjs",
+        "nocode",
+        "page-builder",
+        "react",
+        "ui-builder",
+        "wysiwyg"
+      ],
+      "updated_at": "2026-10-23T07:45:40Z",
+      "created_at": "2021-02-02T19:37:59Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
+      "full_name": "qingjian-team/qingjian",
+      "url": "https://github.com/qingjian-team/qingjian",
+      "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+      "stars": 7074,
+      "language": "Rust",
+      "topics": [
+        "chinese",
+        "chinese-input-method",
+        "english-learning",
+        "ime",
+        "input-method",
+        "japanese-learning",
+        "language-learning",
+        "language-model",
+        "macos",
+        "offline",
+        "pinyin",
+        "rust",
+        "shuangpin",
+        "windows"
+      ],
+      "updated_at": "2026-10-23T07:46:32Z",
+      "created_at": "2026-09-07T08:25:30Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null,
+      "description_zh": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词"
+    },
+    {
       "full_name": "fleetdm/fleet",
       "url": "https://github.com/fleetdm/fleet",
       "description": "Open device management",
@@ -7022,7 +7478,7 @@
         "trt-llm",
         "vllm"
       ],
-      "updated_at": "2026-10-23T07:43:30Z",
+      "updated_at": "2026-10-23T07:44:01Z",
       "created_at": "2024-06-25T05:21:05Z",
       "week_growth": null,
       "month_growth": null,
@@ -7298,6 +7754,20 @@
       "trend_score": null
     },
     {
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "stars": 6324,
+      "language": "Other",
+      "topics": [],
+      "updated_at": "2026-10-23T07:45:42Z",
+      "created_at": "2026-03-05T20:13:14Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "storytold/gridcraft",
       "url": "https://github.com/storytold/gridcraft",
       "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
@@ -7439,7 +7909,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
     },
     {
       "full_name": "ikaijua/Awesome-AITools",
@@ -7473,7 +7944,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests"
     },
     {
       "full_name": "kserve/kserve",
@@ -7685,7 +8157,7 @@
       "full_name": "lemomo-ai/lemo-opuscar",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "description": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
-      "stars": 5836,
+      "stars": 5838,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -7709,12 +8181,13 @@
         "video-production",
         "webgl"
       ],
-      "updated_at": "2026-10-23T07:43:07Z",
+      "updated_at": "2026-10-23T07:46:16Z",
       "created_at": "2026-09-26T10:10:41Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI Agent",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的"
     },
     {
       "full_name": "Eventual-Inc/Daft",
@@ -7806,7 +8279,7 @@
       "full_name": "EverMind-AI/Raven",
       "url": "https://github.com/EverMind-AI/Raven",
       "description": "The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
-      "stars": 5693,
+      "stars": 5694,
       "language": "Python",
       "topics": [
         "ai",
@@ -7830,7 +8303,7 @@
         "self-evolving",
         "self-improving"
       ],
-      "updated_at": "2026-10-23T07:40:54Z",
+      "updated_at": "2026-10-23T07:45:51Z",
       "created_at": "2026-05-21T08:45:07Z",
       "week_growth": null,
       "month_growth": null,
@@ -7865,7 +8338,7 @@
       "full_name": "ARahim3/DigUp",
       "url": "https://github.com/ARahim3/DigUp",
       "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-      "stars": 5597,
+      "stars": 5598,
       "language": "Swift",
       "topics": [
         "embeddinggemma",
@@ -7883,7 +8356,7 @@
         "tauri",
         "windows"
       ],
-      "updated_at": "2026-10-23T07:28:34Z",
+      "updated_at": "2026-10-23T07:45:32Z",
       "created_at": "2026-10-08T20:37:51Z",
       "week_growth": null,
       "month_growth": null,
@@ -7990,7 +8463,7 @@
       "full_name": "looplj/axonhub",
       "url": "https://github.com/looplj/axonhub",
       "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
-      "stars": 5386,
+      "stars": 5387,
       "language": "Go",
       "topics": [
         "agent",
@@ -8009,7 +8482,7 @@
         "openai",
         "opencode"
       ],
-      "updated_at": "2026-10-23T07:11:16Z",
+      "updated_at": "2026-10-23T07:44:27Z",
       "created_at": "2025-09-09T17:04:33Z",
       "week_growth": null,
       "month_growth": null,
@@ -8339,15 +8812,16 @@
       "full_name": "alchaincyf/huashu-art-motion",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "stars": 4933,
+      "stars": 4934,
       "language": "JavaScript",
       "topics": [],
-      "updated_at": "2026-10-23T07:37:05Z",
+      "updated_at": "2026-10-23T07:45:07Z",
       "created_at": "2026-10-06T04:49:37Z",
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
     },
     {
       "full_name": "micrometer-metrics/micrometer",
@@ -8410,7 +8884,7 @@
         "golang",
         "openapi"
       ],
-      "updated_at": "2026-10-23T07:28:07Z",
+      "updated_at": "2026-10-23T07:44:59Z",
       "created_at": "2026-03-23T16:02:09Z",
       "week_growth": null,
       "month_growth": null,
@@ -8652,10 +9126,10 @@
       "full_name": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "description": "",
-      "stars": 4644,
+      "stars": 4647,
       "language": "C",
       "topics": [],
-      "updated_at": "2026-10-23T07:42:40Z",
+      "updated_at": "2026-10-23T07:46:26Z",
       "created_at": "2026-10-17T19:52:00Z",
       "week_growth": null,
       "month_growth": null,
@@ -8753,7 +9227,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
     },
     {
       "full_name": "intuitem/ciso-assistant-community",
@@ -8899,7 +9374,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层"
     },
     {
       "full_name": "QingYunA/answer-me-with-html",
@@ -8927,7 +9403,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     },
     {
       "full_name": "kaankiziltug/logo-design-skill",
@@ -9122,43 +9599,30 @@
       "full_name": "T-Auto/dsh-ops",
       "url": "https://github.com/T-Auto/dsh-ops",
       "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "stars": 3918,
+      "stars": 3919,
       "language": "JavaScript",
       "topics": [
         "dsh",
         "dsh-plugin",
         "dsh-plugins"
       ],
-      "updated_at": "2026-10-23T07:42:03Z",
+      "updated_at": "2026-10-23T07:45:46Z",
       "created_at": "2026-10-08T07:09:25Z",
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时"
     },
     {
       "full_name": "storytold/craft-launcher",
       "url": "https://github.com/storytold/craft-launcher",
       "description": "The Craft App Launcher",
-      "stars": 3878,
+      "stars": 3879,
       "language": "Rust",
       "topics": [],
-      "updated_at": "2026-10-23T07:37:59Z",
+      "updated_at": "2026-10-23T07:45:05Z",
       "created_at": "2026-10-09T23:21:59Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "nykooi1/vibe-wise",
-      "url": "https://github.com/nykooi1/vibe-wise",
-      "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
-      "stars": 3871,
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2026-10-23T06:59:43Z",
-      "created_at": "2026-09-29T01:29:57Z",
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
@@ -9168,7 +9632,7 @@
       "full_name": "arnegiacomo/fugleramme",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "description": "Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.",
-      "stars": 3871,
+      "stars": 3872,
       "language": "Python",
       "topics": [
         "bird-detection",
@@ -9190,11 +9654,25 @@
         "raspberry-pi",
         "self-hosted"
       ],
-      "updated_at": "2026-10-23T07:35:56Z",
+      "updated_at": "2026-10-23T07:46:26Z",
       "created_at": "2026-07-08T19:01:49Z",
       "week_growth": null,
       "month_growth": null,
       "category": "NAS / 自托管",
+      "trend_score": null
+    },
+    {
+      "full_name": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
+      "stars": 3871,
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2026-10-23T06:59:43Z",
+      "created_at": "2026-09-29T01:29:57Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -9492,7 +9970,7 @@
         "react",
         "up-for-grabs"
       ],
-      "updated_at": "2026-10-23T07:33:28Z",
+      "updated_at": "2026-10-23T07:46:25Z",
       "created_at": "2025-05-26T10:38:07Z",
       "week_growth": null,
       "month_growth": null,
@@ -9616,7 +10094,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
     },
     {
       "full_name": "HeyPuter/everything",
@@ -9808,6 +10287,33 @@
       "trend_score": null
     },
     {
+      "full_name": "petercorke/robotics-toolbox-python",
+      "url": "https://github.com/petercorke/robotics-toolbox-python",
+      "description": "Robotics Toolbox for Python",
+      "stars": 3551,
+      "language": "C++",
+      "topics": [
+        "dynamics",
+        "hessian",
+        "jacobian",
+        "kinematics",
+        "motion-planning",
+        "python",
+        "robot-manipulator",
+        "robotics",
+        "robotics-control",
+        "robotics-simulation",
+        "robotics-toolbox",
+        "trajectory-generation"
+      ],
+      "updated_at": "2026-10-23T07:46:17Z",
+      "created_at": "2015-04-06T05:05:25Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "Mesh-LLM/mesh-llm",
       "url": "https://github.com/Mesh-LLM/mesh-llm",
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
@@ -9915,7 +10421,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "Docker / 运维",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!"
     },
     {
       "full_name": "lakehq/sail",
@@ -9953,6 +10460,21 @@
       "trend_score": null
     },
     {
+      "full_name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "stars": 3455,
+      "language": "Kotlin",
+      "topics": [],
+      "updated_at": "2026-10-23T07:46:10Z",
+      "created_at": "2026-10-20T09:13:06Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null,
+      "description_zh": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+    },
+    {
       "full_name": "shopware/shopware",
       "url": "https://github.com/shopware/shopware",
       "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
@@ -9988,20 +10510,6 @@
       "trend_score": null
     },
     {
-      "full_name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "stars": 3453,
-      "language": "Kotlin",
-      "topics": [],
-      "updated_at": "2026-10-23T07:42:12Z",
-      "created_at": "2026-10-20T09:13:06Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
       "full_name": "i-am-bee/beeai-framework",
       "url": "https://github.com/i-am-bee/beeai-framework",
       "description": "Build production-ready AI agents in both Python and Typescript.",
@@ -10018,11 +10526,34 @@
         "python",
         "typescript"
       ],
-      "updated_at": "2026-10-23T07:35:23Z",
+      "updated_at": "2026-10-23T07:44:00Z",
       "created_at": "2024-08-23T14:03:06Z",
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
+      "trend_score": null
+    },
+    {
+      "full_name": "apache/paimon",
+      "url": "https://github.com/apache/paimon",
+      "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+      "stars": 3427,
+      "language": "Java",
+      "topics": [
+        "big-data",
+        "data-ingestion",
+        "flink",
+        "paimon",
+        "real-time-analytics",
+        "spark",
+        "streaming-datalake",
+        "table-store"
+      ],
+      "updated_at": "2026-10-23T07:45:36Z",
+      "created_at": "2022-01-12T03:13:15Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
       "trend_score": null
     },
     {
@@ -10216,7 +10747,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
     {
       "full_name": "GladysAssistant/Gladys",
@@ -10562,6 +11094,20 @@
       "trend_score": null
     },
     {
+      "full_name": "elixir-plug/plug",
+      "url": "https://github.com/elixir-plug/plug",
+      "description": "Compose web applications with functions",
+      "stars": 3019,
+      "language": "Elixir",
+      "topics": [],
+      "updated_at": "2026-10-23T07:46:30Z",
+      "created_at": "2013-11-15T10:30:47Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "其他",
+      "trend_score": null
+    },
+    {
       "full_name": "phcode-dev/phoenix",
       "url": "https://github.com/phcode-dev/phoenix",
       "description": "The text editor designed to make coding as simple and fun as playing a video game",
@@ -10602,7 +11148,7 @@
         "transformer",
         "vllm"
       ],
-      "updated_at": "2026-10-23T07:16:58Z",
+      "updated_at": "2026-10-23T07:45:55Z",
       "created_at": "2025-01-29T10:44:12Z",
       "week_growth": null,
       "month_growth": null,
@@ -10652,7 +11198,7 @@
       "full_name": "Prism-Shadow/penguin-harness",
       "url": "https://github.com/Prism-Shadow/penguin-harness",
       "description": "🐧 Unified and Stable RSI Platform",
-      "stars": 2923,
+      "stars": 2925,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -10668,7 +11214,7 @@
         "rsi",
         "self-evolving"
       ],
-      "updated_at": "2026-10-23T06:49:23Z",
+      "updated_at": "2026-10-23T07:45:05Z",
       "created_at": "2026-07-19T03:15:21Z",
       "week_growth": null,
       "month_growth": null,
@@ -10871,7 +11417,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "Docker / 运维",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步"
     },
     {
       "full_name": "1Panel-dev/CordysCRM",
@@ -10896,7 +11443,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。"
     },
     {
       "full_name": "NeptuneHub/AudioMuse-AI",
@@ -11076,7 +11624,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex"
     },
     {
       "full_name": "lucasmarkes/hairline",
@@ -11103,10 +11652,10 @@
       "full_name": "egoist/mygo",
       "url": "https://github.com/egoist/mygo",
       "description": "Develop desktop apps with native UI or web frontend in Go",
-      "stars": 2637,
+      "stars": 2638,
       "language": "Go",
       "topics": [],
-      "updated_at": "2026-10-23T07:38:33Z",
+      "updated_at": "2026-10-23T07:46:03Z",
       "created_at": "2026-09-26T15:21:37Z",
       "week_growth": null,
       "month_growth": null,
@@ -11203,7 +11752,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "🍅 番茄小说下载器 | 支持Windows/macOS/Linux/android"
     },
     {
       "full_name": "Pinvou/pinvou-agent",
@@ -11309,7 +11859,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "Docker / 运维",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "蓝鲸持续集成平台(蓝盾) "
     },
     {
       "full_name": "nextcloud/ios",
@@ -11334,7 +11885,7 @@
       "full_name": "3441293738/creatorhub",
       "url": "https://github.com/3441293738/creatorhub",
       "description": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手",
-      "stars": 2528,
+      "stars": 2529,
       "language": "Python",
       "topics": [
         "automation",
@@ -11350,12 +11901,13 @@
         "web-scraping",
         "xiaohongshu"
       ],
-      "updated_at": "2026-10-23T07:25:57Z",
+      "updated_at": "2026-10-23T07:46:09Z",
       "created_at": "2026-07-03T08:43:10Z",
       "week_growth": null,
       "month_growth": null,
       "category": "自动化 / 效率",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手"
     },
     {
       "full_name": "visgl/luma.gl",
@@ -11393,7 +11945,7 @@
       "full_name": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-      "stars": 2437,
+      "stars": 2442,
       "language": "Python",
       "topics": [
         "chinese",
@@ -11413,12 +11965,13 @@
         "open-data",
         "primary-school"
       ],
-      "updated_at": "2026-10-23T07:43:36Z",
+      "updated_at": "2026-10-23T07:45:44Z",
       "created_at": "2026-10-18T09:04:43Z",
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     },
     {
       "full_name": "nanaism/yomiyasu",
@@ -11447,7 +12000,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
     },
     {
       "full_name": "lioensky/VCPToolBox",
@@ -11479,7 +12033,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。"
     },
     {
       "full_name": "yyjeqhc/webcodex",
@@ -11721,7 +12276,7 @@
         "lke",
         "self-hosted"
       ],
-      "updated_at": "2026-10-23T07:37:00Z",
+      "updated_at": "2026-10-23T07:45:05Z",
       "created_at": "2019-08-01T21:03:07Z",
       "week_growth": null,
       "month_growth": null,
@@ -11757,7 +12312,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "开发工具",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
     },
     {
       "full_name": "home-assistant/supervisor",
@@ -11905,6 +12461,41 @@
       "trend_score": null
     },
     {
+      "full_name": "Lumiwealth/lumibot",
+      "url": "https://github.com/Lumiwealth/lumibot",
+      "description": "AI agents that actually place the trade. 12 brokers, real backtests, stocks options futures forex crypto and prediction markets.",
+      "stars": 2150,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "algorithmic-trading",
+        "alpaca",
+        "backtesting",
+        "broker",
+        "crypto-trading",
+        "finance",
+        "forex",
+        "fred",
+        "futures-trading",
+        "interactive-brokers",
+        "llm-agents",
+        "multi-agent",
+        "options-trading",
+        "python",
+        "quantitative-finance",
+        "sec-filings",
+        "stocks",
+        "technical-analysis",
+        "trading-bot"
+      ],
+      "updated_at": "2026-10-23T07:45:48Z",
+      "created_at": "2020-09-10T10:00:16Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "AI Agent",
+      "trend_score": null
+    },
+    {
       "full_name": "LoreanXavier/pt-pc",
       "url": "https://github.com/LoreanXavier/pt-pc",
       "description": "Native PC port of P.T. (runs from your own PS4 game files)",
@@ -11922,7 +12513,7 @@
       "full_name": "deeplethe/solid-glass",
       "url": "https://github.com/deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stars": 2124,
+      "stars": 2125,
       "language": "TypeScript",
       "topics": [
         "agent-ui",
@@ -11937,7 +12528,7 @@
         "tailwindcss",
         "theme"
       ],
-      "updated_at": "2026-10-23T06:03:18Z",
+      "updated_at": "2026-10-23T07:45:44Z",
       "created_at": "2026-10-12T09:19:02Z",
       "week_growth": null,
       "month_growth": null,
@@ -12012,16 +12603,17 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。"
     },
     {
       "full_name": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-      "stars": 2082,
+      "stars": 2083,
       "language": "C",
       "topics": [],
-      "updated_at": "2026-10-23T07:43:37Z",
+      "updated_at": "2026-10-23T07:46:08Z",
       "created_at": "2026-10-13T05:20:14Z",
       "week_growth": null,
       "month_growth": null,
@@ -12128,7 +12720,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建"
     },
     {
       "full_name": "nottelabs/notte",
@@ -12217,7 +12810,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。"
     },
     {
       "full_name": "doobidoo/mcp-memory-service",
@@ -12338,6 +12932,60 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
+      "trend_score": null
+    },
+    {
+      "full_name": "xdan/jodit",
+      "url": "https://github.com/xdan/jodit",
+      "description": "Jodit - Best WYSIWYG Editor for You",
+      "stars": 1967,
+      "language": "JavaScript",
+      "topics": [
+        "ace-editor",
+        "editor",
+        "filebrowser",
+        "html",
+        "imageeditor",
+        "jodit",
+        "rich-text-editor",
+        "typescript",
+        "wysiwyg",
+        "wysiwyg-editor",
+        "wysiwyg-html-editor"
+      ],
+      "updated_at": "2026-10-23T07:45:42Z",
+      "created_at": "2017-07-24T15:06:37Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "开发工具",
+      "trend_score": null
+    },
+    {
+      "full_name": "scality/cloudserver",
+      "url": "https://github.com/scality/cloudserver",
+      "description": "Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.",
+      "stars": 1954,
+      "language": "JavaScript",
+      "topics": [
+        "artesca",
+        "aws-s3",
+        "cloud",
+        "cloud-native",
+        "cloud-storage",
+        "docker",
+        "javascript",
+        "multiple-backends",
+        "nodejs",
+        "object-storage",
+        "s3-storage",
+        "storage",
+        "zenko"
+      ],
+      "updated_at": "2026-10-23T07:44:19Z",
+      "created_at": "2016-06-01T09:58:56Z",
+      "week_growth": null,
+      "month_growth": null,
+      "category": "Docker / 运维",
       "trend_score": null
     },
     {
@@ -12531,7 +13179,8 @@
       "week_growth": null,
       "month_growth": null,
       "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "Open Source AI Accelerator Research Platform Standard / 开源推理研究平台"
     },
     {
       "full_name": "perplexityai/SPACE",
@@ -12646,612 +13295,10 @@
       "week_growth": null,
       "month_growth": null,
       "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "trezor/trezor-firmware",
-      "url": "https://github.com/trezor/trezor-firmware",
-      "description": ":lock: Trezor Firmware Monorepo",
-      "stars": 1852,
-      "language": "C",
-      "topics": [
-        "bitcoin",
-        "c",
-        "cryptocurrency",
-        "cryptography",
-        "firmware",
-        "micropython",
-        "python",
-        "rust",
-        "trezor",
-        "wallet"
-      ],
-      "updated_at": "2026-10-23T07:41:03Z",
-      "created_at": "2019-04-10T13:42:15Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "OpenCCU/OpenCCU",
-      "url": "https://github.com/OpenCCU/OpenCCU",
-      "description": ":house: Buildroot-based, cloud-free smart-home platform for a Homematic IP CCU (CCU3/ELV-Charly). Runs on Raspberry Pi & x86/ARM or as a virtual appliance (Proxmox VE, Home Assistant, Docker/LXC/K8s)...",
-      "stars": 1847,
-      "language": "JavaScript",
-      "topics": [
-        "buildroot",
-        "ccu",
-        "ccu3",
-        "docker",
-        "elv-charly",
-        "embedded-devices",
-        "home-automation",
-        "homeassistant",
-        "homematic",
-        "homematicip",
-        "iot",
-        "kubernetes",
-        "linux",
-        "openccu",
-        "operating-system",
-        "raspberrymatic",
-        "raspberrypi",
-        "smarthome",
-        "tinkerboard",
-        "virtual-appliance"
-      ],
-      "updated_at": "2026-10-23T07:26:30Z",
-      "created_at": "2016-06-22T13:33:04Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "Docker / 运维",
-      "trend_score": null
-    },
-    {
-      "full_name": "zhnt/loushang",
-      "url": "https://github.com/zhnt/loushang",
-      "description": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.",
-      "stars": 1843,
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agent-harness",
-        "agentic",
-        "ai",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "deepseek",
-        "dynamic-workflows",
-        "glm",
-        "harness",
-        "kimi",
-        "minimax",
-        "parallel-agents",
-        "python",
-        "skills",
-        "vibe-coding",
-        "workflow"
-      ],
-      "updated_at": "2026-10-23T07:16:42Z",
-      "created_at": "2026-05-29T17:25:11Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "TimefoldAI/timefold-solver",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
-      "description": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "stars": 1838,
-      "language": "Java",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "constraint-programming",
-        "constraint-solver",
-        "cvrp",
-        "employee-scheduling",
-        "java",
-        "kotlin",
-        "maintenance-scheduling",
-        "operations-research",
-        "optimization-algorithms",
-        "planning-algorithms",
-        "resource-allocation",
-        "solver",
-        "solver-library",
-        "vehicle-routing",
-        "vehicle-routing-problem",
-        "vrp",
-        "vrptw"
-      ],
-      "updated_at": "2026-10-23T06:23:56Z",
-      "created_at": "2023-03-28T14:33:35Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "rohit267/net-merge",
-      "url": "https://github.com/rohit267/net-merge",
-      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-      "stars": 1837,
-      "language": "Go",
-      "topics": [
-        "bandwidth-aggregation",
-        "downloader",
-        "golang",
-        "linux",
-        "load-balancing",
-        "macos",
-        "networking",
-        "tethering",
-        "tun",
-        "wifi",
-        "windows",
-        "wintun"
-      ],
-      "updated_at": "2026-10-23T07:28:55Z",
-      "created_at": "2026-10-12T19:28:45Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "steven-jianhao-li/zotero-AI-Butler",
-      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
-      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
-      "stars": 1827,
-      "language": "TypeScript",
-      "topics": [
-        "academic-tools",
-        "ai",
-        "ai-butler",
-        "artificial-intelligence",
-        "butler",
-        "knowledge-management",
-        "llm",
-        "markdown",
-        "paper-reading",
-        "pdf-analysis",
-        "plugin",
-        "productivity",
-        "research-assistant",
-        "workflow",
-        "zotero",
-        "zotero-plugin"
-      ],
-      "updated_at": "2026-10-22T17:30:15Z",
-      "created_at": "2025-10-29T06:48:26Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "tjko/jpegoptim",
-      "url": "https://github.com/tjko/jpegoptim",
-      "description": "jpegoptim - utility to optimize/compress JPEG files",
-      "stars": 1826,
-      "language": "C",
-      "topics": [
-        "image-optimization",
-        "jpeg-encoder",
-        "jpegoptim",
-        "libjpeg"
-      ],
-      "updated_at": "2026-10-23T07:38:02Z",
-      "created_at": "2011-09-24T06:02:05Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "mmparko/dsh-purge",
-      "url": "https://github.com/mmparko/dsh-purge",
-      "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
-      "stars": 1826,
-      "language": "JavaScript",
-      "topics": [
-        "archive",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "dsh-plugins",
-        "harness-jailbreak",
-        "jailbreak",
-        "llm-jailbreak",
-        "mirror"
-      ],
-      "updated_at": "2026-10-23T07:42:22Z",
-      "created_at": "2026-10-13T05:14:47Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "hashtopolis/server",
-      "url": "https://github.com/hashtopolis/server",
-      "description": "Hashtopolis - distributed password cracking with Hashcat",
-      "stars": 1822,
-      "language": "PHP",
-      "topics": [
-        "cracking",
-        "distributed",
-        "hashcat",
-        "hashlist",
-        "hashtopussy",
-        "password",
-        "password-cracking",
-        "password-cracking-tool",
-        "password-recovery",
-        "password-recovery-tool",
-        "passwords",
-        "pentesting",
-        "recovery"
-      ],
-      "updated_at": "2026-10-23T07:40:11Z",
-      "created_at": "2016-11-10T09:39:10Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "lahfir/agent-desktop",
-      "url": "https://github.com/lahfir/agent-desktop",
-      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
-      "stars": 1816,
-      "language": "Rust",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "updated_at": "2026-10-23T05:00:17Z",
-      "created_at": "2026-02-19T18:00:49Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI Agent",
-      "trend_score": null
-    },
-    {
-      "full_name": "NVIDIA-Omniverse/usd-brep",
-      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
-      "stars": 1813,
-      "language": "C++",
-      "topics": [],
-      "updated_at": "2026-10-23T07:01:36Z",
-      "created_at": "2026-10-08T17:27:36Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "glanderness/BeefTV",
-      "url": "https://github.com/glanderness/BeefTV",
-      "description": "High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。",
-      "stars": 1786,
-      "language": "TypeScript",
-      "topics": [
-        "ai-image-generation",
-        "ai-video",
-        "ai-video-generation",
-        "ai-workspace",
-        "aigc",
-        "creative-tools",
-        "infinite-canvas",
-        "local-first"
-      ],
-      "updated_at": "2026-10-23T04:46:08Z",
-      "created_at": "2026-09-24T05:20:03Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "mex-memory/mex",
-      "url": "https://github.com/mex-memory/mex",
-      "description": "Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.",
-      "stars": 1777,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skill",
-        "agent-skills",
-        "claude-code",
-        "claude-code-skills",
-        "cli-tool",
-        "code-graph",
-        "codex",
-        "context-management",
-        "cursor",
-        "developer-tools",
-        "documentation",
-        "git",
-        "knowledge-graph",
-        "llm",
-        "mcp-server",
-        "memory-management",
-        "project-memory",
-        "tree-sitter",
-        "typescript"
-      ],
-      "updated_at": "2026-10-23T06:14:15Z",
-      "created_at": "2026-03-21T10:34:18Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "darrenprx/lolPing",
-      "url": "https://github.com/darrenprx/lolPing",
-      "description": "League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds.",
-      "stars": 1772,
-      "language": "TypeScript",
-      "topics": [
-        "cpp",
-        "desktop-overlay",
-        "electron",
-        "fluent-ui",
-        "league-of-legends",
-        "ping-wheel",
-        "react",
-        "typescript",
-        "windows"
-      ],
-      "updated_at": "2026-10-23T06:36:41Z",
-      "created_at": "2026-10-02T19:57:41Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "shaongitbd/doory",
-      "url": "https://github.com/shaongitbd/doory",
-      "description": "Open source canva alternative",
-      "stars": 1770,
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-10-23T07:22:17Z",
-      "created_at": "2026-10-10T00:03:25Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "punkpeye/awesome-remote-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
-      "description": "A collection of remote MCP servers.",
-      "stars": 1766,
-      "language": "Other",
-      "topics": [
-        "mcp"
-      ],
-      "updated_at": "2026-10-23T07:43:03Z",
-      "created_at": "2026-09-08T00:43:30Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI Agent",
-      "trend_score": null
-    },
-    {
-      "full_name": "jaywcjlove/awesome-swift-macos-apps",
-      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps",
-      "description": "A curated collection of open-source macOS applications built with Swift",
-      "stars": 1765,
-      "language": "Swift",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "desktop-app",
-        "macos",
-        "macos-app",
-        "macos-application",
-        "macos-menubar",
-        "macos-setup",
-        "macos-swift",
-        "macosx",
-        "open-source-project",
-        "swift",
-        "swift-app",
-        "swift-application",
-        "swift-macros",
-        "swiftui"
-      ],
-      "updated_at": "2026-10-23T07:37:00Z",
-      "created_at": "2024-10-09T07:21:55Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "kargulstudio/sales-crm",
-      "url": "https://github.com/kargulstudio/sales-crm",
-      "description": "",
-      "stars": 1762,
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-10-23T03:17:19Z",
-      "created_at": "2026-10-04T10:55:58Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
-    },
-    {
-      "full_name": "e2b-dev/runtime",
-      "url": "https://github.com/e2b-dev/runtime",
-      "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
-      "stars": 1759,
-      "language": "Go",
-      "topics": [
-        "ai-agents",
-        "code-interpreter",
-        "consul",
-        "devtools",
-        "firecracker",
-        "gcp",
-        "go",
-        "golang",
-        "gpt",
-        "infra",
-        "kvm",
-        "llm",
-        "microvm",
-        "nomad",
-        "sandbox",
-        "terraform",
-        "vm",
-        "vmm"
-      ],
-      "updated_at": "2026-10-23T07:41:26Z",
-      "created_at": "2023-08-10T17:37:55Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "google/adk-java",
-      "url": "https://github.com/google/adk-java",
-      "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "stars": 1755,
-      "language": "Java",
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-ai",
-        "agentic-workflow",
-        "agents",
-        "agents-sdk",
-        "ai",
-        "ai-agents",
-        "aiagentframework",
-        "genai",
-        "genai-chatbot",
-        "llm",
-        "llms",
-        "multi-agent",
-        "multi-agent-system",
-        "multi-agent-systems",
-        "multi-agents",
-        "multi-agents-collaboration"
-      ],
-      "updated_at": "2026-10-23T07:43:30Z",
-      "created_at": "2025-05-05T17:16:25Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "kenryu42/cc-safety-net",
-      "url": "https://github.com/kenryu42/cc-safety-net",
-      "description": "A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, DeepSeek Harness, Devin CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.",
-      "stars": 1752,
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "ai-safety",
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "codex-cli",
-        "coding-agent",
-        "cursor",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "guardrails",
-        "hermes-agent",
-        "hooks",
-        "openclaw",
-        "opencode",
-        "pi-extension",
-        "security"
-      ],
-      "updated_at": "2026-10-23T07:03:55Z",
-      "created_at": "2025-12-25T17:52:57Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI Agent",
-      "trend_score": null
-    },
-    {
-      "full_name": "trhhubsd/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEX",
-      "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
-      "stars": 1751,
-      "language": "Go",
-      "topics": [
-        "ai-agent",
-        "ai-security",
-        "artex",
-        "autonomous-agents",
-        "cybersecurity",
-        "go",
-        "hacking",
-        "llm",
-        "llm-agent",
-        "mcp",
-        "nextjs",
-        "offensive-security",
-        "penetration-testing",
-        "pentest",
-        "red-team",
-        "security",
-        "security-tools",
-        "vulnerability",
-        "vulnerability-scanners",
-        "web-security"
-      ],
-      "updated_at": "2026-10-23T07:39:37Z",
-      "created_at": "2026-10-08T20:35:22Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "AI / 大模型",
-      "trend_score": null
-    },
-    {
-      "full_name": "AhmadHassan-BTed/.github",
-      "url": "https://github.com/AhmadHassan-BTed/.github",
-      "description": "",
-      "stars": 1741,
-      "language": "Other",
-      "topics": [],
-      "updated_at": "2026-10-23T07:37:31Z",
-      "created_at": "2026-10-09T13:13:36Z",
-      "week_growth": null,
-      "month_growth": null,
-      "category": "其他",
-      "trend_score": null
+      "trend_score": null,
+      "description_zh": "🦭 A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment | 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端"
     }
-  ]
+  ],
+  "zh_coverage": 89,
+  "zh_total": 500
 }
