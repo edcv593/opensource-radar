@@ -48,5 +48,7 @@
   "HKUDS/nanobot@d516dbba535565bb": "超轻量开源Python个人AI代理框架，支持WebUI、工具、记忆、MCP及多代理工作流。适合开发者自托管构建聊天机器人与自动化应用，亮点是轻便灵活。",
   "bevyengine/bevy@05a754009eed2efb": "基于Rust的数据驱动游戏引擎，设计简洁。适合追求高性能、安全性的游戏开发者。亮点是ECS架构与模块化设计。",
   "sickn33/agentic-awesome-skills@4c146bb5106e4dab": "本地Agent优先控制平面，支持目录发现、技能选择、栈验证与规划，含2600+技能、CLI、MCP及插件。适合AI开发者与Agent工作流使用者，亮点是本地化、技能库丰富。",
-  "apache/airflow@1213c4c301ff624c": "Apache Airflow 是Python工作流平台，用于编程式编写、调度和监控数据管道，适合数据工程、ETL及MLOps场景。亮点是DAG定义、强大调度与可视化监控。"
+  "apache/airflow@1213c4c301ff624c": "Apache Airflow 是Python工作流平台，用于编程式编写、调度和监控数据管道，适合数据工程、ETL及MLOps场景。亮点是DAG定义、强大调度与可视化监控。",
+  "farion1231/cc-switch@061c783feaf594b6": "跨平台桌面一体化助手，支持Claude Code、Codex等AI工具，提供提供商与技能管理，兼容WSL。适合多AI工具用户，亮点是集成管理与开源。",
+  "Stirling-Tools/Stirling-PDF@8b8ae710298fc15a": "Stirling-PDF 是一款自托管的 PDF 网络应用，支持编辑、转换、合并及 OCR 等操作，适合跨设备使用，亮点是功能全面且可部署于 Docker。"
 }
