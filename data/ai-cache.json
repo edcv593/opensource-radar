@@ -1,0 +1,17 @@
+{
+  "openclaw/openclaw@8d9bf914cf7d1604": "开源AI助手，跨平台运行，支持任意操作系统。注重数据自主掌控，适合追求个性化与隐私的用户。亮点：开源透明、灵活适配，以“龙虾”风格独特呈现。",
+  "morluto/rea@4ab9fe7418c3dd5f": "基于AI代理的逆向工程工具，可分析应用行为乃至原生二进制文件，支持Ghidra、Hopper等反编译器，适合安全研究人员与开发者。",
+  "NousResearch/hermes-agent@6a34d263dd33d966": "Hermes Agent 是 Nous Research 推出的 AI 代理，可随使用成长。适合开发者及 AI 爱好者，用于构建个性化智能助手，支持多种主流大模型。",
+  "n8n-io/n8n@d859133f6952c6f0": "开源工作流自动化平台，支持可视化搭建与自定义代码，原生集成AI能力，提供400+应用连接，可自托管或云端使用。适合开发者及企业实现流程自动化。",
+  "Significant-Gravitas/AutoGPT@43ebaef55794a9fd": "AutoGPT 旨在让 AI 人人可用，提供构建自主智能体的工具。适合开发者与 AI 爱好者，支持多模型，亮点是易用且可扩展。",
+  "f/prompts.chat@226ce4bfe5cc8230": "开源社区分享、发现和收集ChatGPT等AI提示词（Prompts）的平台，支持自托管以保护隐私。适合AI爱好者、提示词工程师及开发者，亮点是免费开源、社区驱动。",
+  "huggingface/transformers@2f14812248fc648d": "🤗 Transformers：提供文本、视觉、音频及多模态先进模型的训练与推理框架，支持PyTorch等主流库，适合深度学习开发者与研究者，涵盖LLM、语音识别等前沿应用。",
+  "langgenius/dify@d8b176df904082dc": "Dify是一个开源的低代码/无代码AI应用开发平台，支持构建Agent工作流和RAG管道，集成多种AI模型与工具。适合开发者及团队快速从原型到生产部署，可云端或自托管，无需重建技术栈。",
+  "immich-app/immich@93a716f3a0337480": "高性能自托管照片与视频管理方案，支持备份、浏览与分享。适合寻求谷歌相册替代品的个人或家庭用户。亮点为全栈TypeScript开发，含移动端应用。",
+  "JuliusBrussee/caveman@51af5fc143ef932c": "🪨 用原始人风格精简AI编程代理的提示词，可减少65%的token消耗。适合追求低成本、趣味性的开发者，亮点是高效省token且自带病毒式传播效果。",
+  "supabase/supabase@e78ac2572f9449fe": "Supabase是一个开源的Postgres开发平台，提供数据库、认证、实时功能和向量存储，适合构建Web、移动及AI应用，是Firebase的替代方案。",
+  "paperclipai/paperclip@52e7e7b7825eb184": "Paperclip 是开源的 AI 智能体管理工作台，用于在职场中编排、治理和自动化多智能体协作。适合使用 Claude、Codex 等工具的团队，亮点是支持技能管理与工作流自动化。",
+  "stablyai/orca@e675686e62e44c19": "Orca 是一个多智能体协作平台，支持在桌面、移动端和远程运行各类编码代理（如 Grok Bot、Claude Code）。适合需要统一调度多个 AI 代理完成自动化任务的开发者，亮点是跨端灵活运行与代理编排。",
+  "thedotmack/claude-mem@7ee2dbab212bf055": "为AI代理提供跨会话持久记忆，自动捕获并压缩会话内容，注入相关上下文。适合Claude Code、Codex等工具用户，支持多平台，提升智能体连续性。",
+  "Panniantong/Agent-Reach@94e64fe15965833a": "为AI代理提供统一CLI，免费读取搜索Twitter、Reddit、YouTube、GitHub、B站、小红书等全网内容，零API费用，适合开发者构建自动化智能体。"
+}
