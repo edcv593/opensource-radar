@@ -13,5 +13,13 @@
   "paperclipai/paperclip@52e7e7b7825eb184": "Paperclip 是开源的 AI 智能体管理工作台，用于在职场中编排、治理和自动化多智能体协作。适合使用 Claude、Codex 等工具的团队，亮点是支持技能管理与工作流自动化。",
   "stablyai/orca@e675686e62e44c19": "Orca 是一个多智能体协作平台，支持在桌面、移动端和远程运行各类编码代理（如 Grok Bot、Claude Code）。适合需要统一调度多个 AI 代理完成自动化任务的开发者，亮点是跨端灵活运行与代理编排。",
   "thedotmack/claude-mem@7ee2dbab212bf055": "为AI代理提供跨会话持久记忆，自动捕获并压缩会话内容，注入相关上下文。适合Claude Code、Codex等工具用户，支持多平台，提升智能体连续性。",
-  "Panniantong/Agent-Reach@94e64fe15965833a": "为AI代理提供统一CLI，免费读取搜索Twitter、Reddit、YouTube、GitHub、B站、小红书等全网内容，零API费用，适合开发者构建自动化智能体。"
+  "Panniantong/Agent-Reach@94e64fe15965833a": "为AI代理提供统一CLI，免费读取搜索Twitter、Reddit、YouTube、GitHub、B站、小红书等全网内容，零API费用，适合开发者构建自动化智能体。",
+  "microsoft/vscode@557162f31445bddd": "微软出品的跨平台代码编辑器，基于Electron和TypeScript。适合开发者日常编码，支持丰富扩展与调试，开源且高度可定制。",
+  "puppeteer/puppeteer@8703450ef947c687": "Puppeteer是Node.js库，提供JavaScript API控制Chrome和Firefox，用于网页自动化、爬虫及测试。适合开发者、测试人员，亮点是支持无头浏览器和跨浏览器操作。",
+  "louislam/uptime-kuma@c6a814ef051c6eee": "自托管的精美监控工具，支持Docker部署，实时追踪网站与服务的在线状态。适合个人或团队使用，界面响应式，操作直观，便于随时掌握服务可用性。",
+  "vitejs/vite@3be879d1971f8031": "新一代前端构建工具，主打极速开发体验。适合现代Web开发者，亮点是快速冷启动、即时热更新，显著提升开发效率。",
+  "career-ops-hq/career-ops@fe1819b42b1d685e": "开源AI求职代理，扫描招聘平台并按1-5分评估职位匹配度，定制ATS友好简历和求职信，提供面试准备与申请追踪。适合求职者，本地运行于AI编码CLI。",
+  "storytold/photocraft@984194adc9800465": "开源纯Rust编写的照片编辑器，适合开发者与图像处理爱好者。亮点：完全从零构建，跨平台，注重性能与安全。",
+  "traefik/traefik@5c470130c3fa65fd": "云原生应用代理，支持Kubernetes、Docker等，集反向代理、负载均衡与网关于一体，适合微服务架构，亮点是自动发现与Let's Encrypt集成。",
+  "twentyhq/twenty@db9a79070b0d097e": "开源CRM系统，定位为Salesforce的AI替代方案。适合寻求可定制、数据自主的销售与客户管理团队。亮点：TypeScript技术栈、GraphQL API、支持AI集成。"
 }
