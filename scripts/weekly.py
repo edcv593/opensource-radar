@@ -22,11 +22,21 @@ def cached_summary(item):
     new_calls+=1
     return result
 # Prefer measured weekly gain; while snapshots mature use total stars.
-items=sorted(items,key=lambda r:(r.get("week_growth") is not None,r.get("week_growth") or 0,r["stars"]),reverse=True)[:15]
+items=sorted(items,key=lambda r:(r.get("trend_score") is not None,r.get("trend_score") or 0,r["stars"]),reverse=True)
+# Avoid a single topic monopolizing the weekly selection.
+selected=[]
+counts={}
+for r in items:
+    category=r.get("category","其他")
+    if counts.get(category,0)>=4:continue
+    selected.append(r)
+    counts[category]=counts.get(category,0)+1
+    if len(selected)>=15:break
+items=selected
 lines=[f"# 开源雷达中文周刊 · {today}","","本期精选 GitHub 开源项目，基于采集候选池排序；非 GitHub 官方 Trending。",""]
 for i,r in enumerate(items,1):
     gain="历史数据积累中" if r.get("week_growth") is None else "+"+str(r["week_growth"])
-    lines.extend([f"## {i}. [{r['full_name']}]({r['url']})","",f"⭐ {r['stars']:,} · 7日新增 {gain} · {r['language']}","",cached_summary(r),""])
+    lines.extend([f"## {i}. [{r['full_name']}]({r['url']})","",f"⭐ {r['stars']:,} · 7日新增 {gain} · {r['language']} · {r.get('category','其他')}","",cached_summary(r),""])
 dest.parent.mkdir(parents=True,exist_ok=True)
 dest.write_text("\n".join(lines)+"\n",encoding="utf-8")
 cache_path.write_text(json.dumps(cache,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
