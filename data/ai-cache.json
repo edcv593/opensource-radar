@@ -21,5 +21,6 @@
   "career-ops-hq/career-ops@fe1819b42b1d685e": "开源AI求职代理，扫描招聘平台并按1-5分评估职位匹配度，定制ATS友好简历和求职信，提供面试准备与申请追踪。适合求职者，本地运行于AI编码CLI。",
   "storytold/photocraft@984194adc9800465": "开源纯Rust编写的照片编辑器，适合开发者与图像处理爱好者。亮点：完全从零构建，跨平台，注重性能与安全。",
   "traefik/traefik@5c470130c3fa65fd": "云原生应用代理，支持Kubernetes、Docker等，集反向代理、负载均衡与网关于一体，适合微服务架构，亮点是自动发现与Let's Encrypt集成。",
-  "twentyhq/twenty@db9a79070b0d097e": "开源CRM系统，定位为Salesforce的AI替代方案。适合寻求可定制、数据自主的销售与客户管理团队。亮点：TypeScript技术栈、GraphQL API、支持AI集成。"
+  "twentyhq/twenty@db9a79070b0d097e": "开源CRM系统，定位为Salesforce的AI替代方案。适合寻求可定制、数据自主的销售与客户管理团队。亮点：TypeScript技术栈、GraphQL API、支持AI集成。",
+  "storybookjs/storybook@723740477de16413": "Storybook是行业标准的UI组件开发工具，支持在隔离环境中构建、文档化和测试组件，适用于React、Vue、Angular等主流框架，适合前端团队和设计系统开发者。"
 }
