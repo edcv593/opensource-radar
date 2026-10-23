@@ -19,6 +19,28 @@ def get(url,params=None):
    if i==3:raise
    time.sleep(2**i)
  raise RuntimeError('GitHub API unavailable')
+CATEGORIES={
+ 'AI / 大模型':['ai','artificial-intelligence','llm','large-language-model','machine-learning','deep-learning','generative-ai'],
+ 'AI Agent':['agent','ai-agent','ai-agents','agents','mcp','model-context-protocol'],
+ 'NAS / 自托管':['self-hosted','selfhosted','homelab','nas','home-server'],
+ 'Docker / 运维':['docker','kubernetes','devops','container','containers','monitoring'],
+ '开发工具':['developer-tools','cli','editor','ide','programming','code-editor'],
+ '自动化 / 效率':['automation','workflow','productivity','n8n','workflow-automation'],
+ '数据 / 数据库':['database','postgresql','mysql','data-engineering','analytics'],
+ '安全 / 隐私':['security','privacy','cybersecurity','infosec']
+}
+def category_of(row):
+ topics=set(t.lower() for t in row.get('topics',[]))
+ name=(row.get('full_name','')+' '+row.get('description','')).lower()
+ for label,keywords in CATEGORIES.items():
+  if any(t in topics for t in keywords):return label
+ if 'docker' in name:return 'Docker / 运维'
+ return '其他'
+def score_of(row):
+ growth=row.get('week_growth')
+ # Score is a transparent heuristic, not AI judgment.
+ if growth is None:return None
+ return round(growth*1.0 + min(row['stars'],100000)**0.5*0.12,2)
 def read(p,default):
  try:return json.loads(p.read_text(encoding='utf-8'))
  except (FileNotFoundError,json.JSONDecodeError):return default
@@ -60,6 +82,8 @@ week=baseline(7);month=baseline(30)
 for r in rows:
  for key,old in [('week_growth',week),('month_growth',month)]:
   r[key]=max(0,r['stars']-old[r['full_name']]) if r['full_name'] in old else None
+ r['category']=category_of(r)
+ r['trend_score']=score_of(r)
 ranks=sorted(rows,key=lambda r:(r['week_growth'] is not None,r['week_growth'] or 0,r['stars']),reverse=True)
 (DATA/'repos.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 (DATA/'ranking.json').write_text(json.dumps({'updated_at':TODAY.isoformat(),'week_ready':bool(week),'total_candidates':len(rows),'successful_sources':success,'items':ranks[:500]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
