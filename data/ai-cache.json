@@ -50,5 +50,6 @@
   "sickn33/agentic-awesome-skills@4c146bb5106e4dab": "本地Agent优先控制平面，支持目录发现、技能选择、栈验证与规划，含2600+技能、CLI、MCP及插件。适合AI开发者与Agent工作流使用者，亮点是本地化、技能库丰富。",
   "apache/airflow@1213c4c301ff624c": "Apache Airflow 是Python工作流平台，用于编程式编写、调度和监控数据管道，适合数据工程、ETL及MLOps场景。亮点是DAG定义、强大调度与可视化监控。",
   "farion1231/cc-switch@061c783feaf594b6": "跨平台桌面一体化助手，支持Claude Code、Codex等AI工具，提供提供商与技能管理，兼容WSL。适合多AI工具用户，亮点是集成管理与开源。",
-  "Stirling-Tools/Stirling-PDF@8b8ae710298fc15a": "Stirling-PDF 是一款自托管的 PDF 网络应用，支持编辑、转换、合并及 OCR 等操作，适合跨设备使用，亮点是功能全面且可部署于 Docker。"
+  "Stirling-Tools/Stirling-PDF@8b8ae710298fc15a": "Stirling-PDF 是一款自托管的 PDF 网络应用，支持编辑、转换、合并及 OCR 等操作，适合跨设备使用，亮点是功能全面且可部署于 Docker。",
+  "freeCodeCamp/freeCodeCamp@c469e34edc54a769": "开源编程学习平台，免费提供数学、编程与计算机科学课程，含认证与社区支持。适合自学开发者、教师及非营利组织，亮点是系统化课程与实战项目。"
 }
