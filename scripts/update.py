@@ -78,13 +78,13 @@ def baseline(days):
  files=sorted((DATA/'snapshots').glob('*.json'))
  eligible=[p for p in files if p.stem<=(TODAY-dt.timedelta(days=days)).isoformat()]
  return read(eligible[-1],{}) if eligible else {}
-week=baseline(7);month=baseline(30)
+day=baseline(1);week=baseline(7);month=baseline(30)
 for r in rows:
- for key,old in [('week_growth',week),('month_growth',month)]:
+ for key,old in [('day_growth',day),('week_growth',week),('month_growth',month)]:
   r[key]=max(0,r['stars']-old[r['full_name']]) if r['full_name'] in old else None
  r['category']=category_of(r)
  r['trend_score']=score_of(r)
-ranks=sorted(rows,key=lambda r:(r['week_growth'] is not None,r['week_growth'] or 0,r['stars']),reverse=True)
+ranks=sorted(rows,key=lambda r:(r['day_growth'] is not None,r['day_growth'] or 0,r['stars']),reverse=True)
 (DATA/'repos.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-(DATA/'ranking.json').write_text(json.dumps({'updated_at':TODAY.isoformat(),'week_ready':bool(week),'total_candidates':len(rows),'successful_sources':success,'items':ranks[:500]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(DATA/'ranking.json').write_text(json.dumps({'updated_at':TODAY.isoformat(),'day_ready':bool(day),'week_ready':bool(week),'month_ready':bool(month),'total_candidates':len(rows),'successful_sources':success,'items':ranks[:500]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Saved',len(rows),'repositories; successful discovery sources:',success)
