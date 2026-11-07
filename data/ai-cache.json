@@ -398,5 +398,12 @@
   "marimo-team/marimo@41f989eee2f9f131": "marimo 是 Python 响应式笔记本，支持可复现实验、SQL 查询、脚本执行、应用部署和 Git 版本管理，以纯 Python 存储，适合数据科学、机器学习开发者。",
   "streetwriters/notesnook@5ddafbd9ad3e4f98": "Notesnook 是完全开源、端到端加密的笔记应用，可作为 Evernote 替代。适合注重隐私、需要笔记管理并支持自托管的用户。",
   "kirodotdev/KiroCrew@58329208622581ab": "KiroCrew是Python开发的持久化开发工作空间，支持自我改进并跨会话延续任务，适合使用AI代理进行自动化开发的开发者。",
-  "nocobase/nocobase@dce80e71ece7939c": "NocoBase是开源平台，用于构建、运行和演进AI驱动的业务系统：AI代理写代码执行任务，平台提供基础与治理，人做决策。适合需要低代码/无代码搭建CRM、ERP等内部工具并自托管的团队。"
+  "nocobase/nocobase@dce80e71ece7939c": "NocoBase是开源平台，用于构建、运行和演进AI驱动的业务系统：AI代理写代码执行任务，平台提供基础与治理，人做决策。适合需要低代码/无代码搭建CRM、ERP等内部工具并自托管的团队。",
+  "DayuanJiang/next-ai-draw-io@c06b3b2e487efdca": "通过聊天AI绘制和编辑draw.io图表，提供网页、桌面应用及MCP服务器，支持Claude Code、Cursor等工具，适合需要快速生成流程图、架构图并使用AI编程助手的开发者。",
+  "trailhq/Trail-Code@3dce81db44c777dc": "为团队编码智能体提供共享记忆，让Claude Code、Cursor和Codex获取代码地图与过往决策，接续工作。适合用AI辅助编程的开发者与团队，TypeScript实现。",
+  "traccar/traccar@0c0e34da5d2ba72d": "Traccar是开源GPS追踪平台，支持自托管或托管部署，兼容200多种设备协议。适合需要车辆追踪、车队管理或物联网定位的开发者和企业。",
+  "ParadevAI/Paradev@1042bc8272e49853": "Paradev是开源Codex App与Conductor替代品，可用自有订阅并行编排多个AI编码代理。适合需要多代理协作的开发者。",
+  "amir20/dozzle@5430365567ec67fc": "Dozzle 是面向容器的实时日志查看器，支持 Docker、Swarm 和 K8s。适合运维与开发者快速查看容器日志，基于 Go 并带 Vue.js 界面。",
+  "Skyvern-AI/skyvern@6c5e12270003e7fd": "Skyvern用AI自动化浏览器工作流，支持Python、Playwright等，适合开发者与RPA用户。",
+  "browseros-ai/BrowserOS@4ddcce585cdb69c3": "BrowserOS是开源智能体浏览器，基于TypeScript，可替代ChatGPT Atlas等。适合关注AI代理、浏览器自动化及本地大模型（Ollama、LM Studio、MCP）的开发者和用户。"
 }
